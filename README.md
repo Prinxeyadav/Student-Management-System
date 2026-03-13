@@ -1,3 +1,6 @@
+#just follow the roadmap to use this  code in as your own , and be master to modify it and enjoy the journey of your technical life;
+
+
 # Student Management System
 
 ## 📌 Project Overview
