@@ -1,6 +1,16 @@
 #just follow the roadmap to use this  code in as your own , and be master to modify it and enjoy the journey of your technical life;
 
 
+
+##I think i will have to quit this  project cause i don't think i can complete it in a week or months cause  it's too complicated 
+and i'm not gettting what i have to really do; ;
+if i spent the time on it then might be the  possible to run this project successfully 
+but for now i'm done  ;
+cause i don't have time to work upon on it;
+
+
+
+
 # Student Management System
 
 ## 📌 Project Overview
