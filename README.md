@@ -9,6 +9,9 @@ but for now i'm done  ;
 cause i don't have time to work upon on it;
 
 
+i'm unable to catch where i'm really stuck , i think i should follow my structure but also it's not that much worth it;
+
+
 
 
 # Student Management System
